@@ -1,0 +1,46 @@
+.about {
+    margin-bottom: 80px;
+}
+
+.about-body {
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.about__us{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 60px;
+}
+
+.about__inner{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+.about__advantages{
+
+    border: 1px solid #646464;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px 0px;
+    width: 600px;
+}
+
+h2{
+    text-align: center;
+}
+
+.Accordion1{
+    border: 1px solid #646464;
+    border-radius: 8px;
+}
+
+.advantages{
+    padding: 60px 0px;
+}
+
+
